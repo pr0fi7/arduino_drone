@@ -1,4 +1,4 @@
-# arduino_drone
+# Arduino-Based Drone
 
 Hello everybody! Welcome to one of my ongoing projects: creating a person-following drone from scratch.
 
